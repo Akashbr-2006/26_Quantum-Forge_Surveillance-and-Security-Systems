@@ -1,1 +1,2 @@
-# 26_Quantum-Forge_Surveillance-and-Security-Systems
+Problem Statement:
+#Public gathering is difficult to be assured of its security and control over a group. Traditional methods of surveillance will be difficult to  provide real-time crowd monitoring and analysis of masses. The need of a smart surveillance system, in this context, lies in the detection of individuals, estimating crowd density and emotion of the victim  in order to ascertain a potential threat and ensure more improved security measures.
