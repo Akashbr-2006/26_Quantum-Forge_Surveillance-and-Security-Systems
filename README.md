@@ -1,2 +1,2 @@
 Problem Statement:
-#Public gathering is difficult to be assured of its security and control over a group. Traditional methods of surveillance will be difficult to  provide real-time crowd monitoring and analysis of masses. The need of a smart surveillance system, in this context, lies in the detection of individuals, estimating crowd density and emotion of the victim  in order to ascertain a potential threat and ensure more improved security measures.
+#Managing safety in large public gatherings is challenging with traditional methods. Smart surveillance systems help by detecting individuals, monitoring crowd density, and identifying unusual activity. This allows quicker responses, enhancing security and ensuring everyone’s safety.
