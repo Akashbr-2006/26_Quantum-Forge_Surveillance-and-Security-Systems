@@ -191,7 +191,7 @@ class HomePage(tk.Frame):
         self.parent = parent
 
         # Camera feeds and other attributes
-        self.phone_cam_url = "http://192.168.161.164:4747/video"
+        self.phone_cam_url = "http://192.168.137.190:4747/video"
         self.phone_cam = cv2.VideoCapture(self.phone_cam_url)
         self.laptop_cam = cv2.VideoCapture(0)
         self.model = torch.hub.load('ultralytics/yolov5', 'yolov5s', pretrained=True)
